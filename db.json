@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstname": "aniket",
+      "lastname": "uttekar",
+      "email": "aniketuttekar19@gmail.com",
+      "mobile": "7972945937",
+      "salary": "9000000"
+    },
+    {
+      "id": 5,
+      "firstname": "edd",
+      "lastname": "kar",
+      "email": "alar19@gmail.com",
+      "mobile": "7972909937",
+      "salary": "20000"
+    },
+    {
+      "id": 7,
+      "firstname": "alpha",
+      "lastname": "bet",
+      "email": "aa@123",
+      "mobile": "12212",
+      "salary": "2222"
+    },
+    {
+      "id": 9,
+      "firstname": "sherya",
+      "lastname": "uttekar",
+      "email": "sherya@123",
+      "mobile": "3322443329",
+      "salary": "100000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
